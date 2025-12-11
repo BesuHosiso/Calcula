@@ -123,3 +123,10 @@ body {
     font-size: 1.45rem;
     font-weight: 600;
 }
+
+footer {
+  margin-top: auto;
+  padding: 20px;
+  font-size: 0.8rem;
+  color: #4a4d57;
+}
